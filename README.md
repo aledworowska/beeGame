@@ -11,6 +11,7 @@
  * Pszczoły są renderowane instancyjnie.
  * Kwiaty stworzone przy użyciu tekstury przezroczystej. 
 
-Filmik prezentujący grę:
+Gif prezentujący grę:
 
-![beeGame.mp4](beeGame.mp4)  
+![beeGame](https://github.com/user-attachments/assets/0e311ceb-067d-4efa-b06b-fac4199c7f01)
+
